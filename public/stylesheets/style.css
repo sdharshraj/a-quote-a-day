@@ -1,8 +1,26 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  width: 80%;
+  margin: auto;
 }
 
 a {
   color: #00B7FF;
+  text-decoration: none;
+}
+.pageImage{
+  display: block;
+    max-width: 500px;
+    height: 400px;
+    margin: 10px;
+}
+.mainImage{
+  display: block;
+    max-width: 100%;
+    height: auto;
+}
+.menu{
+  display: block inline;
+  text-decoration: none;
 }
